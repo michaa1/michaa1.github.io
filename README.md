@@ -1,7 +1,6 @@
-theme: jekyll-theme-slate
-title: Welcome to michaa1's homepage!
+## Welcome to michaa1's homepage!
 
-## Welcome to GitHub Pages
+This space is a test trial for a website
 
 You can use the [editor on GitHub](https://github.com/michaa1/michaa1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
